@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace BlazorServerApp
+namespace Devpro.BlazorSamples.BlazorServerApp
 {
     public static class Program
     {

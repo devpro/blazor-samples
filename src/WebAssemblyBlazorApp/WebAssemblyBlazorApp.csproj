@@ -3,6 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <RazorLangVersion>3.0</RazorLangVersion>
+    <AssemblyName>Devpro.BlazorSamples.WebAssemblyBlazorApp</AssemblyName>
+    <RootNamespace>Devpro.BlazorSamples.WebAssemblyBlazorApp</RootNamespace>
+    <ProjectGuid>{3E62742A-338D-41CA-8AA0-9E93100FBB26}</ProjectGuid>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
 
   <ItemGroup>

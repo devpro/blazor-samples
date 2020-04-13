@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace WebAssemblyBlazorApp
+namespace Devpro.BlazorSamples.WebAssemblyBlazorApp
 {
     public static class Program
     {

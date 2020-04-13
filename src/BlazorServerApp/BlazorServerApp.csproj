@@ -5,6 +5,14 @@
     <UserSecretsId>7308d365-c6cb-41ef-bc66-18272d346da7</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>..\..</DockerfileContext>
+    <AssemblyName>Devpro.BlazorSamples.BlazorServerApp</AssemblyName>
+    <RootNamespace>Devpro.BlazorSamples.BlazorServerApp</RootNamespace>
+    <ProjectGuid>{172B09AF-22B3-49BB-840F-423E9138D236}</ProjectGuid>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
 
   <ItemGroup>

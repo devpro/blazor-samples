@@ -1,11 +1,11 @@
-﻿using BlazorServerApp.Data;
+﻿using Devpro.BlazorSamples.BlazorServerApp.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace BlazorServerApp
+namespace Devpro.BlazorSamples.BlazorServerApp
 {
     public class Startup
     {
