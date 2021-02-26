@@ -352,3 +352,6 @@ MigrationBackup/
 # Local debug files
 Local.runsettings
 appsettings.Development.json
+
+# Backup files (WinMerge)
+*.bak
